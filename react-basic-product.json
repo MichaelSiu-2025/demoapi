@@ -1,0 +1,39 @@
+{
+	{
+        id: 1,
+        name: "Apple",
+        price: 100,
+        image: "apple.jpeg",
+        description: "This is an Apple"
+    },
+    {
+        id: 2,
+        name: "Orange",
+        price: 80,
+        image: "orange.jpeg",
+        description: "This is an Orange"
+    },
+    {
+        id: 3,
+        name: "Banana",
+        price: 50,
+        image: "banana.jpeg",
+        description: "This is a Banana"
+    }
+	,
+    {
+        id: 4,
+        name: "Strawberry",
+        price: 65,
+        image: "Strawberry.jpeg",
+        description: "This is a Strawberry"
+    }
+	,
+    {
+        id: 5,
+        name: "Cherry",
+        price: 99,
+        image: "banana.jpeg",
+        description: "This is a Banana"
+    }
+}
