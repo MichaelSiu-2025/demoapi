@@ -1,5 +1,5 @@
-{
-	{
+[
+    {
         "id": 1,
         "name": "Apple",
         "price": 100,
@@ -36,4 +36,4 @@
         "image": "banana.jpeg",
         "description": "This is a Banana"
     }
-}
+]
